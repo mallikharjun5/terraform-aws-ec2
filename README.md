@@ -6,7 +6,7 @@
 
 ### INPUTS
 
-* ami_id - (Optional) Defaults to provided ami-id
+* ami_id - (Optional) Defaults to provided ami-id ```ami-0220d79f3f480ecf5```
 * instance_type - (Required) user must supply instance type either t3.micro or small or medium
 * sg_id - (Required) user must supply a list of security group id's to attach ec2 instances
 * tags - (Optional) user can supply the tags attach to EC2 instances
