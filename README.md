@@ -1,4 +1,4 @@
-### This module cretaed AWS EC2 INSTANCE
+### THIS MODULE CREATED AWS EC2 INSTANCE
 
 * In terraform maximum the key's are constant and the values will varry because of parameterizing 
 * so for parameterizing we need to make variables for the values
